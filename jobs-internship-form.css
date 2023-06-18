@@ -1,0 +1,245 @@
+.stud-2-removebg-preview-2-icon11 {
+  position: absolute;
+  top: 10px;
+  left: calc(50% - 620px);
+  width: 176px;
+  height: 88px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.jobs-you-might2 {
+  position: relative;
+}
+.jobs-you-might-like-container {
+  position: absolute;
+  top: 54px;
+  left: calc(50% - 358px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-39xl);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+}
+.jobs-internship-form-child,
+.jobs-internship-form-item {
+  position: absolute;
+  top: 119px;
+  border-radius: var(--br-22xl);
+  height: 60px;
+}
+.jobs-internship-form-child {
+  left: calc(50% - 435px);
+  background-color: rgba(217, 217, 217, 0.71);
+  width: 753px;
+}
+.jobs-internship-form-item {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-blue-100);
+  left: calc(50% + 253px);
+  width: 246px;
+}
+.search,
+.search-job-and {
+  position: absolute;
+  top: 134px;
+  left: calc(50% + 340px);
+  line-height: 140%;
+  color: var(--color-white);
+}
+.search-job-and {
+  top: 135px;
+  left: calc(50% - 384px);
+  color: var(--color-gray-400);
+}
+.latest-part-time {
+  position: absolute;
+  top: 215px;
+  left: calc(50% - 156px);
+  font-size: var(--font-size-5xl);
+  line-height: 140%;
+}
+.jobs-internship-form-child1,
+.jobs-internship-form-child2,
+.jobs-internship-form-inner {
+  position: absolute;
+  top: 302px;
+  border-radius: var(--br-10xl);
+  background-color: var(--color-gainsboro-500);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 323px;
+  height: 435px;
+}
+.jobs-internship-form-inner {
+  left: calc(50% - 542px);
+}
+.jobs-internship-form-child1 {
+  left: calc(50% - 161px);
+}
+.jobs-internship-form-child2 {
+  left: calc(50% + 220px);
+}
+.part-time-graphics,
+.part-time-virtual,
+.web-developer-intern {
+  position: absolute;
+  font-size: var(--font-size-base);
+  line-height: 140%;
+  color: var(--color-gray-100);
+}
+.web-developer-intern {
+  top: 329px;
+  left: calc(50% - 77px);
+}
+.part-time-virtual {
+  top: 324px;
+  left: calc(50% + 292px);
+}
+.part-time-graphics {
+  top: 334px;
+  left: calc(50% - 476px);
+}
+.our-company-is {
+  left: calc(50% - 517px);
+  width: 273px;
+}
+.our-company-is,
+.we-are-looking,
+.we-are-seeking {
+  position: absolute;
+  top: 377px;
+  font-size: var(--font-size-base);
+  line-height: 140%;
+  display: inline-block;
+  text-align: left;
+}
+.we-are-seeking {
+  left: calc(50% - 143px);
+  width: 286px;
+  height: 198px;
+}
+.we-are-looking {
+  left: calc(50% + 234px);
+  width: 292px;
+  height: 171px;
+}
+.jobs-internship-form-child3 {
+  left: calc(50% - 451px);
+}
+.jobs-internship-form-child3,
+.jobs-internship-form-child4,
+.jobs-internship-form-child5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-blue-100);
+  position: absolute;
+  top: 678px;
+  border-radius: var(--br-22xl);
+  width: 141px;
+  height: 45px;
+}
+.jobs-internship-form-child4 {
+  left: calc(50% - 70px);
+}
+.jobs-internship-form-child5 {
+  left: calc(50% + 311px);
+}
+.apply {
+  left: calc(50% - 401px);
+}
+.apply,
+.apply1,
+.apply2 {
+  position: absolute;
+  top: 690px;
+  font-size: var(--font-size-sm);
+  line-height: 140%;
+  color: var(--color-white);
+}
+.apply1 {
+  left: calc(50% - 20px);
+}
+.apply2 {
+  left: calc(50% + 361px);
+}
+.jobs-internship-form-child6 {
+  position: absolute;
+  width: 100%;
+  top: 821px;
+  right: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  height: 80px;
+}
+.facebook-logo-removebg-preview-icon3,
+.twitter-logo-12 {
+  position: absolute;
+  top: 837px;
+  left: 237px;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+}
+.twitter-logo-12 {
+  top: 843px;
+  left: 285px;
+  width: 39px;
+  height: 39px;
+}
+.copyright-20233 {
+  position: absolute;
+  top: 849px;
+  right: 55px;
+  font-family: var(--font-inter);
+  color: var(--color-gray-200);
+  text-align: left;
+  display: inline-block;
+  width: 308px;
+  height: 41px;
+}
+.terms-conditions3 {
+  right: 253px;
+  color: var(--color-gray-200);
+}
+.follow-us3,
+.privacy-statement3,
+.terms-conditions3 {
+  position: absolute;
+  top: 849px;
+  font-family: var(--font-inter);
+  text-align: left;
+  display: inline-block;
+  width: 308px;
+  height: 41px;
+}
+.privacy-statement3 {
+  right: 444px;
+  color: var(--color-gray-200);
+}
+.follow-us3 {
+  left: 119px;
+  color: var(--color-gray-1100);
+}
+.instagram-logo-removebg-previe-icon3 {
+  position: absolute;
+  top: 832px;
+  left: 313px;
+  width: 67px;
+  height: 58px;
+  object-fit: cover;
+}
+.jobs-internship-form {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 901px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-cabin);
+}

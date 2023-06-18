@@ -1,0 +1,393 @@
+.stud-2-removebg-preview-2-icon10 {
+  position: absolute;
+  top: 10px;
+  left: calc(50% - 620px);
+  width: 176px;
+  height: 88px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.jobs-you-might1 {
+  position: relative;
+}
+.jobs-you-might-like-group {
+  position: absolute;
+  top: 40px;
+  left: calc(50% - 366px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-39xl);
+  font-size: var(--font-size-5xl);
+}
+.application-part-time-child {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  height: 80px;
+}
+.facebook-logo-removebg-preview-icon2,
+.twitter-logo-11 {
+  position: absolute;
+  bottom: 16px;
+  left: 237px;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+}
+.twitter-logo-11 {
+  bottom: 19px;
+  left: 285px;
+  width: 39px;
+  height: 39px;
+}
+.copyright-20232 {
+  position: absolute;
+  right: 55px;
+  bottom: 11px;
+  font-family: var(--font-inter);
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 308px;
+  height: 41px;
+}
+.terms-conditions2 {
+  right: 253px;
+  color: var(--color-gray-200);
+}
+.follow-us2,
+.privacy-statement2,
+.terms-conditions2 {
+  position: absolute;
+  bottom: 11px;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 308px;
+  height: 41px;
+}
+.privacy-statement2 {
+  right: 444px;
+  color: var(--color-gray-200);
+}
+.follow-us2 {
+  left: 119px;
+  color: var(--color-gray-1100);
+}
+.instagram-logo-removebg-previe-icon2 {
+  position: absolute;
+  bottom: 11px;
+  left: 313px;
+  width: 67px;
+  height: 58px;
+  object-fit: cover;
+}
+.resumecv2 {
+  position: absolute;
+  top: 1073.04px;
+  left: 245.41px;
+  font-size: 19.83px;
+  display: inline-block;
+  width: 262.59px;
+  height: 23.43px;
+}
+.upload-resume2 {
+  position: absolute;
+  top: 1181.8px;
+  left: 306.1px;
+  font-size: 10.82px;
+  color: var(--color-blue-100);
+}
+.application-part-time-item {
+  position: absolute;
+  top: 1046px;
+  left: 97.6px;
+  border-radius: 17.43px;
+  width: 400.79px;
+  height: 165.84px;
+}
+.application-part-time-inner {
+  position: absolute;
+  top: 1173.69px;
+  left: 272.15px;
+  border-radius: 30.04px;
+  width: 143.01px;
+  height: 33.65px;
+}
+.to-increase-your4 {
+  position: absolute;
+  top: 1112.1px;
+  left: 245.41px;
+  font-size: 12.02px;
+  display: inline-block;
+  width: 233.14px;
+  height: 16.82px;
+}
+.wewew-removebg-preview-1-icon2 {
+  position: absolute;
+  top: 1064.03px;
+  left: 113.82px;
+  width: 96.74px;
+  height: 118.37px;
+  object-fit: cover;
+}
+.select-your-preferred1 {
+  flex: 1;
+  position: relative;
+}
+.drop-down-item {
+  position: relative;
+  width: 19px;
+  height: 12.19px;
+  flex-shrink: 0;
+}
+.drop-down1 {
+  position: absolute;
+  top: 1046px;
+  left: 519px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 276px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-lg) var(--padding-4xl);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-xs);
+}
+.job-description,
+.part-time-job {
+  position: absolute;
+  font-size: var(--font-size-5xl);
+}
+.part-time-job {
+  top: 973px;
+  left: 988px;
+}
+.job-description {
+  top: 149px;
+  left: 788px;
+}
+.application-part-time-child1 {
+  position: absolute;
+  top: 1076px;
+  left: 887px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-gainsboro-600);
+  width: 483px;
+  height: 58px;
+}
+.application-part-time-child2 {
+  left: 887px;
+  width: 483px;
+}
+.application-part-time-child2,
+.application-part-time-child3,
+.application-part-time-child4 {
+  position: absolute;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-gainsboro-600);
+}
+.application-part-time-child2 {
+  top: 1183px;
+  height: 203px;
+}
+.application-part-time-child3 {
+  top: 1239px;
+  left: 100px;
+  width: 698px;
+  height: 361px;
+}
+.application-part-time-child4 {
+  top: 1419px;
+  left: 887px;
+  width: 483px;
+  height: 105px;
+}
+.message1,
+.subject1 {
+  left: 887px;
+  display: inline-block;
+}
+.subject1 {
+  position: absolute;
+  top: 1050px;
+  font-size: var(--font-size-mini);
+  line-height: 140%;
+  width: 132px;
+}
+.message1 {
+  top: 1157px;
+  width: 149px;
+}
+.contact-info8,
+.for-inquiries-you-container1,
+.message1 {
+  position: absolute;
+  font-size: var(--font-size-mini);
+  line-height: 140%;
+}
+.contact-info8 {
+  top: 1397px;
+  left: 887px;
+  display: inline-block;
+  width: 253px;
+  height: 11px;
+}
+.for-inquiries-you-container1 {
+  top: 1429px;
+  left: 902px;
+  color: var(--color-gray-300);
+}
+.application-part-time-child5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-blue-100);
+  position: absolute;
+  top: 1558px;
+  left: calc(50% + 338px);
+  border-radius: var(--br-22xl);
+  width: 141px;
+  height: 45px;
+}
+.send-mail1 {
+  position: absolute;
+  top: 1570px;
+  left: calc(50% + 373px);
+  font-size: var(--font-size-sm);
+  line-height: 140%;
+  color: var(--color-white);
+  text-align: center;
+}
+.company-inovatech {
+  margin: 0;
+}
+.company-inovatech-salary-container {
+  position: absolute;
+  top: 498px;
+  left: 108px;
+  font-family: var(--font-inter);
+}
+.company-logo-11 {
+  position: absolute;
+  top: 208px;
+  left: 108px;
+  border-radius: 224.66px;
+  width: 239px;
+  height: 239px;
+  object-fit: cover;
+}
+.company {
+  font-family: var(--font-cabin);
+}
+.company-inovatech-creativedes-container {
+  position: absolute;
+  top: 227px;
+  left: 444px;
+  background: linear-gradient(#000, #000), #000;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 888px;
+  height: 599px;
+}
+.schedule-picker-ano {
+  position: absolute;
+  top: 1360px;
+  left: 250px;
+}
+.di-ko-alam-container {
+  position: absolute;
+  top: 587px;
+  left: 108px;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 220px;
+  height: 134px;
+}
+.component-1-inner {
+  position: absolute;
+  height: 68.18%;
+  width: 77.68%;
+  top: 11.36%;
+  right: 22.32%;
+  bottom: 20.45%;
+  left: 0;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-gainsboro-600);
+}
+.search-jobs8 {
+  position: absolute;
+  height: 29.55%;
+  width: 20.6%;
+  top: 31.82%;
+  left: 6.44%;
+  display: inline-block;
+}
+.component-1-child1 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.vector-icon20 {
+  height: 54.67%;
+  width: 4.66%;
+  top: 36.43%;
+  right: 14.3%;
+  bottom: 8.9%;
+  left: 81.05%;
+}
+.vector-icon20,
+.vector-icon21 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.component-1-child1 {
+  height: 100%;
+  width: 11.16%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 88.84%;
+}
+.vector-icon21 {
+  height: 75.5%;
+  width: 7.62%;
+  top: 9.04%;
+  right: 1.59%;
+  bottom: 15.46%;
+  left: 90.79%;
+}
+.component-11 {
+  position: absolute;
+  top: 32px;
+  left: 916px;
+  width: 466px;
+  height: 44px;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-500);
+}
+.application-part-time {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1735px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-cabin);
+}

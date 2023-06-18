@@ -1,0 +1,624 @@
+.stud-2-removebg-preview-2-icon2 {
+  position: absolute;
+  top: 32px;
+  left: 136px;
+  width: 176px;
+  height: 88px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.home1 {
+  left: 388px;
+}
+.home1,
+.jobs-and-internships1,
+.my-jobs1,
+.reports1 {
+  position: absolute;
+  top: 76px;
+  font-size: var(--font-size-xl);
+  cursor: pointer;
+}
+.jobs-and-internships1 {
+  left: 478px;
+}
+.my-jobs1 {
+  left: 692px;
+}
+.reports1 {
+  left: 813px;
+}
+.payment-gkas-child {
+  position: absolute;
+  top: 73px;
+  left: 929px;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-gainsboro-600);
+  width: 362px;
+  height: 30px;
+}
+.search-jobs1 {
+  position: absolute;
+  top: 82px;
+  left: 959px;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-500);
+  display: inline-block;
+  width: 96px;
+  height: 13px;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 2.41%;
+  width: 1.53%;
+  top: 8.4%;
+  right: 6.45%;
+  bottom: 89.19%;
+  left: 92.02%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.payment-gkas-item,
+.vector-icon3 {
+  position: absolute;
+  top: 60px;
+  left: 1343px;
+  width: 52px;
+  height: 44px;
+}
+.vector-icon3 {
+  height: 3.32%;
+  width: 2.5%;
+  top: 7.3%;
+  right: 2.28%;
+  bottom: 89.38%;
+  left: 95.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.billing-and-payment2 {
+  position: absolute;
+  top: 167px;
+  display: inline-block;
+  height: 39px;
+}
+.billing-and-payment2,
+.billing-and-payment3 {
+  font-size: var(--font-size-14xl);
+}
+.billing-and-payment3,
+.billing-info1,
+.payment1,
+.settings1 {
+  position: absolute;
+  display: inline-block;
+  height: 39px;
+}
+.settings1 {
+  top: 167px;
+  left: 162px;
+  font-size: var(--font-size-14xl);
+  width: 123px;
+}
+.billing-and-payment2,
+.billing-and-payment3 {
+  left: 442px;
+  width: 437px;
+}
+.payment1 {
+  width: 437px;
+}
+.billing-and-payment3 {
+  top: 168px;
+}
+.payment1 {
+  top: 262px;
+  left: 467px;
+  font-size: var(--font-size-9xl);
+}
+.billing-info1 {
+  top: 503px;
+  left: 520px;
+  font-size: var(--font-size-5xl);
+  width: 122px;
+}
+.full-name1 {
+  top: 549px;
+  left: 490px;
+  width: 167px;
+  height: 39px;
+}
+.batangas2,
+.full-name1,
+.mark-vincent-gallemit1 {
+  position: absolute;
+  display: inline-block;
+}
+.mark-vincent-gallemit1 {
+  top: 585px;
+  left: 502px;
+  color: var(--color-gray-1000);
+  width: 251px;
+  height: 39px;
+}
+.batangas2 {
+  top: 672px;
+}
+.batangas2,
+.batangas3,
+.philippines1 {
+  left: 502px;
+  color: var(--color-gray-1000);
+  width: 167px;
+  height: 39px;
+}
+.batangas3 {
+  position: absolute;
+  top: 758px;
+  display: inline-block;
+}
+.philippines1 {
+  top: 845px;
+}
+.billing1,
+.div4,
+.philippines1,
+.user-settings1 {
+  position: absolute;
+  display: inline-block;
+}
+.div4 {
+  top: 758px;
+  left: 682px;
+  color: var(--color-gray-1000);
+  width: 167px;
+  height: 39px;
+}
+.billing1,
+.user-settings1 {
+  top: 234px;
+  left: 162px;
+  font-size: var(--font-size-26xl);
+  width: 158px;
+  height: 41px;
+}
+.user-settings1 {
+  top: 389px;
+}
+.payment-gkas-inner {
+  position: absolute;
+  top: 312.48px;
+  left: 162px;
+  border-right: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 1px;
+  height: 53.02px;
+}
+.payment-gkas-child1 {
+  position: absolute;
+  top: 505.98px;
+  left: 161px;
+  width: 1.5px;
+  height: 289.02px;
+}
+.billing-payments1 {
+  position: absolute;
+  top: 327px;
+  left: 178px;
+  font-size: var(--font-size-xl);
+  color: var(--color-blue-300);
+}
+.contact-info1 {
+  top: 516px;
+}
+.contact-info1,
+.my-profile1,
+.notification-settings1,
+.profile-settings1,
+.tax-information1 {
+  position: absolute;
+  left: 178px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-600);
+}
+.tax-information1 {
+  top: 574px;
+}
+.notification-settings1 {
+  top: 761px;
+}
+.my-profile1 {
+  top: 636px;
+  cursor: pointer;
+}
+.profile-settings1 {
+  cursor: pointer;
+  top: 701px;
+}
+.payment-gkas-child2 {
+  position: absolute;
+  top: 244px;
+  left: 432px;
+  border-radius: var(--br-10xl);
+  width: 882px;
+  height: 730px;
+}
+.payment-gkas-child3 {
+  position: absolute;
+  top: 575px;
+  left: 490px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-800);
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 363px;
+  height: 40px;
+}
+.account-name,
+.mark-vincent-gallemit2 {
+  position: absolute;
+  top: 549px;
+  left: 930px;
+  display: inline-block;
+  width: 167px;
+  height: 39px;
+}
+.mark-vincent-gallemit2 {
+  top: 585px;
+  left: 942px;
+  color: var(--color-gray-1000);
+  width: 215px;
+}
+.payment-gkas-child4 {
+  position: absolute;
+  top: 575px;
+  left: 930px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-800);
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 363px;
+  height: 40px;
+}
+.billing-address1 {
+  position: absolute;
+  top: 636px;
+  left: 490px;
+  display: inline-block;
+  width: 167px;
+}
+.payment-gkas-child5 {
+  position: absolute;
+  top: 662px;
+  left: 490px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-800);
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 363px;
+  height: 40px;
+}
+.phone-number1 {
+  position: absolute;
+  top: 636px;
+  left: 929px;
+  display: inline-block;
+  width: 167px;
+  height: 39px;
+}
+.payment-gkas-child6 {
+  position: absolute;
+  top: 662px;
+  left: 929px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-800);
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 363px;
+  height: 40px;
+}
+.city1,
+.zip-code1 {
+  position: absolute;
+  top: 722px;
+  left: 490px;
+  display: inline-block;
+  width: 167px;
+  height: 39px;
+}
+.zip-code1 {
+  left: 670px;
+}
+.payment-gkas-child7,
+.payment-gkas-child8 {
+  position: absolute;
+  top: 748px;
+  left: 490px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-800);
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 160px;
+  height: 40px;
+}
+.payment-gkas-child8 {
+  top: 749px;
+  left: 670px;
+  width: 183px;
+}
+.country1 {
+  position: absolute;
+  top: 808px;
+  left: 490px;
+  display: inline-block;
+  width: 167px;
+  height: 39px;
+}
+.payment-gkas-child9 {
+  position: absolute;
+  top: 834px;
+  left: 490px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-800);
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 363px;
+  height: 40px;
+}
+.gmail1,
+.samplegmailcom1 {
+  position: absolute;
+  display: inline-block;
+  width: 167px;
+  height: 39px;
+}
+.samplegmailcom1 {
+  top: 759px;
+  left: 942px;
+  color: var(--color-gray-1000);
+}
+.gmail1 {
+  top: 722px;
+  left: 930px;
+}
+.payment-gkas-child10 {
+  position: absolute;
+  top: 748px;
+  left: 930px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-800);
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 363px;
+  height: 40px;
+}
+.marked-icon1 {
+  left: 879px;
+}
+.marked-icon1,
+.payment-gkas-child11,
+.payment-gkas-child12,
+.payment-gkas-child13 {
+  position: absolute;
+  top: 348px;
+  border-radius: var(--br-5xs);
+  width: 188px;
+  height: 110px;
+}
+.payment-gkas-child11 {
+  left: 459px;
+  cursor: pointer;
+}
+.payment-gkas-child12,
+.payment-gkas-child13 {
+  cursor: pointer;
+}
+.payment-gkas-child12 {
+  left: 669px;
+}
+.payment-gkas-child13 {
+  left: 1089px;
+}
+.choose-payment-below1 {
+  position: absolute;
+  top: 304px;
+  left: 467px;
+  font-size: var(--font-size-lgi);
+  color: var(--color-gray-900);
+  display: inline-block;
+  width: 196px;
+  height: 24px;
+}
+.gcash1,
+.paypal1 {
+  font-size: var(--font-size-lgi);
+  width: 68px;
+}
+.paypal1 {
+  position: absolute;
+  top: 417px;
+  left: 733px;
+  display: inline-block;
+  height: 24px;
+}
+.gcash1 {
+  top: 416px;
+  left: 948px;
+}
+.creditdebit-card1,
+.gcash1,
+.money-remittance-center1 {
+  position: absolute;
+  color: var(--color-gray-900);
+  display: inline-block;
+  height: 24px;
+}
+.creditdebit-card1 {
+  top: 420px;
+  left: 481px;
+  font-size: var(--font-size-lgi);
+  width: 142px;
+}
+.money-remittance-center1 {
+  top: 422px;
+  left: 1102px;
+  width: 185px;
+}
+.gcashlogo1-vector-gcash-logo-h-icon1 {
+  position: absolute;
+  top: 356px;
+  left: 901px;
+  width: 144.15px;
+  height: 70px;
+  object-fit: cover;
+}
+.download-removebg-preview-remo-icon1 {
+  position: absolute;
+  top: 340px;
+  left: 1133px;
+  width: 102.94px;
+  height: 84px;
+  object-fit: cover;
+}
+.gcash-account {
+  position: absolute;
+}
+.payment-gkas-child14 {
+  position: absolute;
+  top: 503px;
+  left: 478px;
+  width: 33px;
+  height: 33px;
+}
+.gcash-account {
+  top: 505px;
+  left: 960px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 197px;
+  height: 39px;
+}
+.payment-gkas-child15 {
+  position: absolute;
+  top: 503px;
+  left: 919px;
+  width: 33px;
+  height: 33px;
+}
+.div5,
+.div6 {
+  position: absolute;
+  top: 504px;
+  left: 490px;
+  font-size: var(--font-size-6xl);
+}
+.div6 {
+  left: 929px;
+}
+.payment-gkas-child16 {
+  position: absolute;
+  top: 898.5px;
+  left: 789.5px;
+  border-radius: var(--br-31xl);
+  width: 210px;
+  height: 60px;
+  cursor: pointer;
+}
+.proceed1 {
+  position: absolute;
+  top: 913px;
+  left: 849px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  color: var(--color-white);
+  width: 136px;
+  height: 10px;
+}
+.payment-gkas-child17 {
+  position: absolute;
+  top: 833.5px;
+  left: 1075.5px;
+  border-radius: var(--br-3xs);
+  width: 120px;
+  height: 48px;
+  cursor: pointer;
+}
+.link {
+  position: absolute;
+  top: 844px;
+  left: 1115px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  color: var(--color-white);
+  width: 102px;
+  height: 8px;
+}
+.image-6-icon1 {
+  position: absolute;
+  top: 668px;
+  left: 822px;
+  width: 26px;
+  height: 28px;
+  object-fit: cover;
+}
+.screenshot-2023-03-21-090634-r-icon1 {
+  position: absolute;
+  top: 348px;
+  left: 503px;
+  width: 99.66px;
+  height: 70px;
+  object-fit: cover;
+}
+.you-will-be {
+  margin: 0;
+}
+.you-will-be-container {
+  position: absolute;
+  top: 805px;
+  left: 934px;
+  color: var(--color-gray-600);
+}
+.icon1,
+.image-18-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image-18-icon {
+  top: 832px;
+  left: 930px;
+  width: 146.79px;
+  height: 43px;
+}
+.icon1 {
+  top: 361px;
+  left: 694px;
+  width: 141.61px;
+  height: 70px;
+}
+.div7,
+.div8 {
+  position: absolute;
+  top: 672px;
+  left: 943px;
+  display: inline-block;
+  width: 167px;
+  height: 39px;
+}
+.div8 {
+  left: 979px;
+  color: var(--color-gray-1000);
+  width: 216px;
+}
+.payment-gkas {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-cabin);
+}

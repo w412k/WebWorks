@@ -1,0 +1,448 @@
+.stud-2-removebg-preview-2-icon9 {
+  position: absolute;
+  top: 10px;
+  left: calc(50% - 620px);
+  width: 176px;
+  height: 88px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.jobs-you-might {
+  position: relative;
+}
+.jobs-you-might-like-parent {
+  position: absolute;
+  top: 40px;
+  left: calc(50% - 366px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-39xl);
+  font-size: var(--font-size-5xl);
+}
+.application-ojt-child {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  height: 80px;
+}
+.facebook-logo-removebg-preview-icon1,
+.twitter-logo-1 {
+  position: absolute;
+  bottom: 16px;
+  left: 237px;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+}
+.twitter-logo-1 {
+  bottom: 19px;
+  left: 285px;
+  width: 39px;
+  height: 39px;
+}
+.copyright-20231 {
+  position: absolute;
+  right: 55px;
+  bottom: 11px;
+  font-family: var(--font-inter);
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 308px;
+  height: 41px;
+}
+.terms-conditions1 {
+  right: 253px;
+  color: var(--color-gray-200);
+}
+.follow-us1,
+.privacy-statement1,
+.terms-conditions1 {
+  position: absolute;
+  bottom: 11px;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 308px;
+  height: 41px;
+}
+.privacy-statement1 {
+  right: 444px;
+  color: var(--color-gray-200);
+}
+.follow-us1 {
+  left: 119px;
+  color: var(--color-gray-1100);
+}
+.instagram-logo-removebg-previe-icon1 {
+  position: absolute;
+  bottom: 11px;
+  left: 313px;
+  width: 67px;
+  height: 58px;
+  object-fit: cover;
+}
+.internship-description {
+  position: absolute;
+  top: 149px;
+  left: 788px;
+  font-size: var(--font-size-5xl);
+}
+.company-techstartupco {
+  margin: 0;
+}
+.company-techstartupco-salary {
+  position: absolute;
+  top: 498px;
+  left: 108px;
+  font-family: var(--font-inter);
+}
+.company-logo-1 {
+  position: absolute;
+  top: 208px;
+  left: 108px;
+  border-radius: 224.66px;
+  width: 239px;
+  height: 239px;
+  object-fit: cover;
+}
+.company-techstartupco-techst-container {
+  position: absolute;
+  top: 227px;
+  left: 444px;
+  background: linear-gradient(#000, #000), #000;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 888px;
+  height: 599px;
+}
+.component-1-child {
+  position: absolute;
+  height: 68.18%;
+  width: 77.68%;
+  top: 11.36%;
+  right: 22.32%;
+  bottom: 20.45%;
+  left: 0;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-gainsboro-600);
+}
+.search-jobs7 {
+  position: absolute;
+  height: 29.55%;
+  width: 20.6%;
+  top: 31.82%;
+  left: 6.44%;
+  display: inline-block;
+}
+.component-1-item {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.vector-icon15 {
+  height: 54.67%;
+  width: 4.66%;
+  top: 36.43%;
+  right: 14.3%;
+  bottom: 8.9%;
+  left: 81.05%;
+}
+.vector-icon15,
+.vector-icon16 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.component-1-item {
+  height: 100%;
+  width: 11.16%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 88.84%;
+}
+.vector-icon16 {
+  height: 75.5%;
+  width: 7.62%;
+  top: 9.04%;
+  right: 1.59%;
+  bottom: 15.46%;
+  left: 90.79%;
+}
+.component-1 {
+  position: absolute;
+  top: 32px;
+  left: 916px;
+  width: 466px;
+  height: 44px;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-500);
+}
+.endorsement-letter,
+.moa,
+.resumecv1 {
+  position: absolute;
+  left: 245.41px;
+  font-size: 19.83px;
+  display: inline-block;
+  width: 262.59px;
+  height: 23.43px;
+}
+.resumecv1 {
+  top: 1053.04px;
+}
+.endorsement-letter {
+  top: 1243.04px;
+}
+.moa {
+  top: 1434.04px;
+}
+.upload-endorsement,
+.upload-moa,
+.upload-resume1 {
+  position: absolute;
+  font-size: 10.82px;
+  color: var(--color-blue-100);
+}
+.upload-resume1 {
+  top: 1161.8px;
+  left: 306.1px;
+}
+.upload-endorsement {
+  top: 1352px;
+  left: 293px;
+}
+.upload-moa {
+  top: 1543px;
+  left: 314px;
+}
+.application-ojt-child1,
+.application-ojt-inner,
+.application-ojt-item {
+  position: absolute;
+  left: 97.6px;
+  border-radius: 17.43px;
+  width: 400.79px;
+  height: 165.84px;
+}
+.application-ojt-item {
+  top: 1026px;
+}
+.application-ojt-inner {
+  top: 1216px;
+}
+.application-ojt-child1 {
+  top: 1407px;
+}
+.vector-icon17 {
+  top: 62.36%;
+  bottom: 36.52%;
+}
+.vector-icon17,
+.vector-icon18,
+.vector-icon19 {
+  position: absolute;
+  height: 1.11%;
+  width: 2.84%;
+  right: 88.17%;
+  left: 8.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon18 {
+  top: 73.31%;
+  bottom: 25.57%;
+}
+.vector-icon19 {
+  top: 84.32%;
+  bottom: 14.56%;
+}
+.application-ojt-child2 {
+  top: 1153.69px;
+}
+.application-ojt-child2,
+.application-ojt-child3,
+.application-ojt-child4 {
+  position: absolute;
+  left: 272.15px;
+  border-radius: 30.04px;
+  width: 143.01px;
+  height: 33.65px;
+}
+.application-ojt-child3 {
+  top: 1343.69px;
+}
+.application-ojt-child4 {
+  top: 1534.69px;
+}
+.to-increase-your1 {
+  top: 1092.1px;
+}
+.to-increase-your1,
+.to-increase-your2,
+.to-increase-your3 {
+  position: absolute;
+  left: 245.41px;
+  font-size: 12.02px;
+  display: inline-block;
+  width: 233.14px;
+  height: 16.82px;
+}
+.to-increase-your2 {
+  top: 1282.1px;
+}
+.to-increase-your3 {
+  top: 1473.1px;
+}
+.wewew-removebg-preview-1-icon1 {
+  top: 1050px;
+  left: 119px;
+}
+.wewew-removebg-preview-1-icon1,
+.wewew-removebg-preview-2-icon,
+.wewew-removebg-preview-3-icon {
+  position: absolute;
+  width: 96.74px;
+  height: 118.37px;
+  object-fit: cover;
+}
+.wewew-removebg-preview-2-icon {
+  top: 1234.03px;
+  left: 113.82px;
+}
+.wewew-removebg-preview-3-icon {
+  left: 113.82px;
+  top: 1425.03px;
+}
+.select-your-preferred {
+  flex: 1;
+  position: relative;
+}
+.drop-down-child {
+  position: relative;
+  width: 19px;
+  height: 12.19px;
+  flex-shrink: 0;
+}
+.drop-down {
+  position: absolute;
+  top: 1026px;
+  left: 519px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 276px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-lg) var(--padding-4xl);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-xs);
+}
+.application-ojt-child5 {
+  top: 1056px;
+  height: 58px;
+}
+.application-ojt-child5,
+.application-ojt-child6,
+.application-ojt-child7 {
+  position: absolute;
+  left: 887px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-gainsboro-600);
+  width: 483px;
+}
+.application-ojt-child6 {
+  top: 1163px;
+  height: 203px;
+}
+.application-ojt-child7 {
+  top: 1399px;
+  height: 146px;
+}
+.message,
+.subject {
+  left: 887px;
+  display: inline-block;
+}
+.subject {
+  position: absolute;
+  top: 1030px;
+  font-size: var(--font-size-mini);
+  line-height: 140%;
+  width: 132px;
+}
+.message {
+  top: 1137px;
+  width: 149px;
+}
+.contact-info7,
+.for-inquiries-you-container,
+.message {
+  position: absolute;
+  font-size: var(--font-size-mini);
+  line-height: 140%;
+}
+.contact-info7 {
+  top: 1377px;
+  left: 887px;
+  display: inline-block;
+  width: 253px;
+  height: 11px;
+}
+.for-inquiries-you-container {
+  top: 1409px;
+  left: 902px;
+  color: var(--color-gray-300);
+}
+.internship-application {
+  position: absolute;
+  top: 958px;
+  left: 972px;
+  font-size: var(--font-size-5xl);
+}
+.application-ojt-child8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-blue-100);
+  position: absolute;
+  top: 1573px;
+  left: calc(50% + 338px);
+  border-radius: var(--br-22xl);
+  width: 141px;
+  height: 45px;
+}
+.send-mail {
+  position: absolute;
+  top: 1585px;
+  left: calc(50% + 373px);
+  font-size: var(--font-size-sm);
+  line-height: 140%;
+  color: var(--color-white);
+  text-align: center;
+}
+.application-ojt {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1735px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-cabin);
+}

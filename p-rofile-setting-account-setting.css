@@ -1,0 +1,337 @@
+.stud-2-removebg-preview-2-icon5 {
+  position: absolute;
+  top: 32px;
+  left: 136px;
+  width: 176px;
+  height: 88px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.home3 {
+  position: absolute;
+  top: 76px;
+  left: 388px;
+  cursor: pointer;
+}
+.jobs-and-internships3 {
+  left: 478px;
+  cursor: pointer;
+}
+.jobs-and-internships3,
+.my-jobs3,
+.reports3 {
+  position: absolute;
+  top: 76px;
+}
+.my-jobs3 {
+  left: 692px;
+  cursor: pointer;
+}
+.reports3 {
+  left: 813px;
+}
+.profile-setting-account-setti-child {
+  position: absolute;
+  top: 73px;
+  left: 929px;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-gainsboro-600);
+  width: 362px;
+  height: 30px;
+}
+.search-jobs3 {
+  position: absolute;
+  top: 82px;
+  left: 959px;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-500);
+  display: inline-block;
+  width: 96px;
+  height: 13px;
+}
+.vector-icon6 {
+  position: absolute;
+  height: 2.41%;
+  width: 1.53%;
+  top: 9.05%;
+  right: 6.39%;
+  bottom: 88.55%;
+  left: 92.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.profile-setting-account-setti-item,
+.vector-icon7 {
+  position: absolute;
+  top: 66px;
+  left: 1343px;
+  width: 52px;
+  height: 44px;
+}
+.vector-icon7 {
+  height: 3.32%;
+  width: 2.5%;
+  top: 8.13%;
+  right: 2.36%;
+  bottom: 88.55%;
+  left: 95.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.password-security,
+.settings3 {
+  position: absolute;
+  top: 167px;
+  font-size: var(--font-size-14xl);
+  display: inline-block;
+  height: 39px;
+}
+.settings3 {
+  left: 162px;
+  width: 123px;
+}
+.password-security {
+  left: 442px;
+  width: 437px;
+}
+.authentication-options,
+.password {
+  left: 473px;
+  font-size: var(--font-size-9xl);
+  width: 437px;
+}
+.authentication-options {
+  position: absolute;
+  top: 279px;
+  display: inline-block;
+  height: 39px;
+}
+.password {
+  top: 342px;
+}
+.billing3,
+.div14,
+.password,
+.user-settings3 {
+  position: absolute;
+  display: inline-block;
+}
+.div14 {
+  top: 354px;
+  left: 959px;
+  font-size: 22px;
+  width: 437px;
+}
+.billing3,
+.user-settings3 {
+  top: 234px;
+  left: 162px;
+  font-size: var(--font-size-26xl);
+  width: 158px;
+  height: 41px;
+}
+.user-settings3 {
+  top: 389px;
+}
+.profile-setting-account-setti-inner {
+  position: absolute;
+  top: 312.48px;
+  left: 162px;
+  border-right: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 1px;
+  height: 53.02px;
+}
+.profile-setting-account-setti-child1 {
+  position: absolute;
+  top: 505.98px;
+  left: 161px;
+  width: 1.5px;
+  height: 289.02px;
+}
+.billing-payments3 {
+  position: absolute;
+  top: 327px;
+  left: 178px;
+  color: var(--color-gray-600);
+  cursor: pointer;
+}
+.contact-info3 {
+  top: 516px;
+}
+.contact-info3,
+.my-profile3,
+.notification-settings3,
+.tax-information3 {
+  position: absolute;
+  left: 178px;
+  color: var(--color-gray-600);
+}
+.tax-information3 {
+  top: 574px;
+}
+.notification-settings3 {
+  top: 761px;
+}
+.my-profile3 {
+  top: 636px;
+  cursor: pointer;
+}
+.profile-settings3 {
+  position: absolute;
+  top: 701px;
+  left: 178px;
+  color: var(--color-blue-200);
+}
+.profile-setting-account-setti-child2,
+.profile-setting-account-setti-child3 {
+  position: absolute;
+  top: 248px;
+  left: 437px;
+  border-radius: var(--br-10xl);
+  width: 671px;
+  height: 219px;
+}
+.profile-setting-account-setti-child3 {
+  top: 249px;
+}
+.we-will-only {
+  margin: 0;
+}
+.edit,
+.we-will-only-container {
+  color: var(--color-gray-900);
+  width: 632px;
+  height: 72px;
+}
+.we-will-only-container {
+  position: absolute;
+  top: 387px;
+  left: 478px;
+  font-size: var(--font-size-lgi);
+  display: inline-block;
+}
+.edit {
+  top: 355px;
+  left: 920px;
+  font-size: var(--font-size-mini);
+}
+.div15,
+.edit,
+.edit1 {
+  position: absolute;
+  display: inline-block;
+}
+.div15 {
+  top: 590px;
+  left: 959px;
+  font-size: var(--font-size-lg);
+  color: rgba(0, 0, 0, 0.74);
+  width: 437px;
+}
+.edit1 {
+  top: 592px;
+  left: 920px;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-900);
+  width: 632px;
+  height: 72px;
+}
+.two-step-verification-options {
+  top: 520px;
+  font-size: var(--font-size-9xl);
+  height: 39px;
+}
+.authenticator-app-code,
+.security-questions,
+.text-message,
+.two-step-verification-options {
+  position: absolute;
+  left: 473px;
+  display: inline-block;
+  width: 437px;
+}
+.text-message {
+  top: 587px;
+}
+.authenticator-app-code {
+  height: 25px;
+}
+.security-questions {
+  top: 665px;
+  height: 25px;
+}
+.authenticator-app-code {
+  top: 737px;
+}
+.profile-setting-account-setti-child4,
+.profile-setting-account-setti-child5 {
+  position: absolute;
+  top: 667px;
+  left: 974px;
+  border-radius: var(--br-10xl);
+  width: 74px;
+  height: 52px;
+  object-fit: cover;
+}
+.profile-setting-account-setti-child5 {
+  top: 749px;
+}
+.profile-setting-account-setti-child6 {
+  position: absolute;
+  top: 490px;
+  left: 437px;
+  border-radius: var(--br-10xl);
+  width: 671px;
+  height: 355px;
+}
+.answer-a-question-container,
+.enter-a-code-container,
+.receive-a-verification-container,
+.recommended,
+.recommended1 {
+  position: absolute;
+  color: var(--color-gray-900);
+  display: inline-block;
+  width: 632px;
+  height: 72px;
+}
+.receive-a-verification-container,
+.recommended,
+.recommended1 {
+  top: 617px;
+  left: 478px;
+  font-size: var(--font-size-lgi);
+}
+.recommended,
+.recommended1 {
+  top: 590px;
+  left: 595px;
+  font-size: var(--font-size-mini);
+}
+.recommended1 {
+  top: 741px;
+  left: 678px;
+}
+.answer-a-question-container,
+.enter-a-code-container {
+  top: 691px;
+  left: 478px;
+  font-size: var(--font-size-lgi);
+}
+.enter-a-code-container {
+  top: 765px;
+}
+.profile-setting-account-setti {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 873px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-cabin);
+}

@@ -1,0 +1,335 @@
+.my-profile-child {
+  position: absolute;
+  top: 583.5px;
+  left: 1070.5px;
+  border-radius: var(--br-31xl);
+  width: 196px;
+  height: 46px;
+  cursor: pointer;
+}
+.stud-2-removebg-preview-2-icon6 {
+  position: absolute;
+  top: 32px;
+  left: 136px;
+  width: 176px;
+  height: 88px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.home4 {
+  left: 388px;
+}
+.home4,
+.jobs-and-internships4,
+.my-jobs4 {
+  position: absolute;
+  top: 76px;
+  cursor: pointer;
+}
+.jobs-and-internships4 {
+  left: 478px;
+}
+.my-jobs4 {
+  left: 692px;
+}
+.my-profile-item,
+.reports4 {
+  position: absolute;
+}
+.reports4 {
+  top: 76px;
+  left: 813px;
+}
+.my-profile-item {
+  top: 73px;
+  left: 929px;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-gainsboro-600);
+  width: 362px;
+  height: 30px;
+}
+.resumecv,
+.search-jobs4,
+.settings4 {
+  position: absolute;
+  display: inline-block;
+}
+.search-jobs4 {
+  top: 82px;
+  left: 959px;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-500);
+  width: 96px;
+  height: 13px;
+}
+.resumecv,
+.settings4 {
+  font-size: var(--font-size-14xl);
+  height: 39px;
+}
+.settings4 {
+  top: 167px;
+  left: 162px;
+  width: 123px;
+}
+.resumecv {
+  top: 293px;
+  left: 683px;
+  width: 437px;
+}
+.upload-resume {
+  position: absolute;
+  top: 453px;
+  left: 806px;
+  font-size: var(--font-size-lg);
+  color: var(--color-blue-100);
+}
+.available-now {
+  position: absolute;
+  top: 658px;
+  left: 622px;
+  font-size: var(--font-size-3xs);
+  color: #1d7a06;
+}
+.billing4,
+.user-settings4 {
+  position: absolute;
+  top: 234px;
+  left: 162px;
+  font-size: var(--font-size-26xl);
+  display: inline-block;
+  width: 158px;
+  height: 41px;
+}
+.user-settings4 {
+  top: 389px;
+}
+.my-profile-inner {
+  position: absolute;
+  top: 312.48px;
+  left: 162px;
+  border-right: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 1px;
+  height: 53.02px;
+}
+.my-profile-child1 {
+  position: absolute;
+  top: 505.98px;
+  left: 161px;
+  width: 1.5px;
+  height: 289.02px;
+}
+.billing-payments4 {
+  position: absolute;
+  top: 327px;
+  left: 178px;
+  color: var(--color-gray-600);
+  cursor: pointer;
+}
+.contact-info4 {
+  top: 516px;
+}
+.contact-info4,
+.notification-settings4,
+.tax-information4 {
+  position: absolute;
+  left: 178px;
+  color: var(--color-gray-600);
+}
+.tax-information4 {
+  top: 574px;
+}
+.notification-settings4 {
+  top: 761px;
+}
+.my-profile5,
+.profile-settings4 {
+  position: absolute;
+  top: 636px;
+  left: 178px;
+  color: var(--color-blue-200);
+}
+.profile-settings4 {
+  top: 701px;
+  color: var(--color-gray-600);
+  cursor: pointer;
+}
+.my-profile-child2,
+.my-profile-child3 {
+  position: absolute;
+  top: 248px;
+  left: 437px;
+  border-radius: var(--br-10xl);
+  width: 858px;
+  height: 276px;
+}
+.my-profile-child3 {
+  top: 551px;
+  height: 545px;
+}
+.my-profile-child4,
+.vector-icon8 {
+  position: absolute;
+  top: 586px;
+  left: 483px;
+  width: 97px;
+  height: 87px;
+}
+.vector-icon8 {
+  height: 2.78%;
+  width: 4.79%;
+  top: 29.43%;
+  right: 60.69%;
+  bottom: 67.79%;
+  left: 34.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.my-profile-child5,
+.my-profile-child6 {
+  position: absolute;
+  top: 439.5px;
+  left: 749.5px;
+  border-radius: var(--br-31xl);
+  width: 238px;
+  height: 56px;
+}
+.my-profile-child6 {
+  top: 654.5px;
+  left: 595.5px;
+  width: 94px;
+  height: 28px;
+}
+.profile-setting,
+.to-increase-your {
+  position: absolute;
+  display: inline-block;
+}
+.profile-setting {
+  top: 592px;
+  left: 1116px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  width: 136px;
+  height: 10px;
+}
+.to-increase-your {
+  top: 358px;
+  left: 683px;
+  width: 555px;
+  height: 28px;
+}
+.image-6-icon3,
+.wewew-removebg-preview-1-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.wewew-removebg-preview-1-icon {
+  top: 278px;
+  left: 464px;
+  width: 161px;
+  height: 197px;
+}
+.image-6-icon3 {
+  top: 621px;
+  left: 599px;
+  width: 25px;
+  height: 29px;
+}
+.alangilan-batangas-city {
+  position: absolute;
+  top: 627px;
+  left: 626px;
+  font-size: var(--font-size-mini);
+}
+.name,
+.on {
+  position: absolute;
+}
+.name {
+  top: 581px;
+  left: 604px;
+  font-size: 35px;
+}
+.on {
+  top: 658px;
+  left: 693px;
+  font-size: var(--font-size-3xs);
+}
+.image-7-icon {
+  position: absolute;
+  top: 654px;
+  left: 711px;
+  width: 19.15px;
+  height: 20px;
+  object-fit: cover;
+}
+.my-profile-child7 {
+  position: absolute;
+  top: 661px;
+  left: 607px;
+  width: 9px;
+  height: 9px;
+}
+.my-profile-child8 {
+  position: absolute;
+  top: 744.5px;
+  left: 681.5px;
+  border-right: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 1px;
+  height: 344px;
+}
+.my-profile6 {
+  position: absolute;
+  top: 179px;
+  left: 442px;
+  font-size: var(--font-size-14xl);
+  display: inline-block;
+  width: 437px;
+  height: 39px;
+}
+.vector-icon9 {
+  position: absolute;
+  height: 1.81%;
+  width: 1.53%;
+  top: 6.82%;
+  right: 5.94%;
+  bottom: 91.37%;
+  left: 92.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.my-profile-child9,
+.vector-icon10 {
+  position: absolute;
+  top: 66px;
+  left: 1349.42px;
+  width: 52px;
+  height: 44px;
+}
+.vector-icon10 {
+  height: 2.5%;
+  width: 2.5%;
+  top: 6.47%;
+  right: 1.91%;
+  bottom: 91.03%;
+  left: 95.59%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.my-profile4 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1159px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-cabin);
+}

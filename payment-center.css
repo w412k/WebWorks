@@ -1,0 +1,581 @@
+.stud-2-removebg-preview-2-icon1 {
+  position: absolute;
+  top: 32px;
+  left: 136px;
+  width: 176px;
+  height: 88px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.home {
+  left: 388px;
+}
+.home,
+.jobs-and-internships,
+.my-jobs,
+.reports {
+  position: absolute;
+  top: 76px;
+  font-size: var(--font-size-xl);
+  cursor: pointer;
+}
+.jobs-and-internships {
+  left: 478px;
+}
+.my-jobs {
+  left: 692px;
+}
+.reports {
+  left: 813px;
+}
+.payment-center-child {
+  position: absolute;
+  top: 73px;
+  left: 929px;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-gainsboro-600);
+  width: 362px;
+  height: 30px;
+}
+.search-jobs {
+  position: absolute;
+  top: 82px;
+  left: 959px;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-500);
+  display: inline-block;
+  width: 96px;
+  height: 13px;
+}
+.vector-icon {
+  position: absolute;
+  height: 2.41%;
+  width: 1.53%;
+  top: 8.4%;
+  right: 6.45%;
+  bottom: 89.19%;
+  left: 92.02%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.payment-center-item,
+.vector-icon1 {
+  position: absolute;
+  top: 68px;
+  left: 1344px;
+  width: 52px;
+  height: 44px;
+}
+.vector-icon1 {
+  height: 3.32%;
+  width: 2.5%;
+  top: 7.3%;
+  right: 2.28%;
+  bottom: 89.38%;
+  left: 95.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.billing-and-payment {
+  position: absolute;
+  top: 167px;
+  display: inline-block;
+  height: 39px;
+}
+.billing-and-payment,
+.billing-and-payment1 {
+  font-size: var(--font-size-14xl);
+}
+.billing-and-payment1,
+.billing-info,
+.payment,
+.settings {
+  position: absolute;
+  display: inline-block;
+  height: 39px;
+}
+.settings {
+  top: 167px;
+  left: 162px;
+  font-size: var(--font-size-14xl);
+  width: 123px;
+}
+.billing-and-payment,
+.billing-and-payment1 {
+  left: 442px;
+  width: 437px;
+}
+.payment {
+  width: 437px;
+}
+.billing-and-payment1 {
+  top: 168px;
+}
+.payment {
+  top: 262px;
+  left: 467px;
+  font-size: var(--font-size-9xl);
+}
+.billing-info {
+  top: 503px;
+  left: 520px;
+  font-size: var(--font-size-5xl);
+  width: 122px;
+}
+.full-name {
+  top: 549px;
+  left: 490px;
+  width: 167px;
+  height: 39px;
+}
+.batangas,
+.full-name,
+.mark-vincent-gallemit {
+  position: absolute;
+  display: inline-block;
+}
+.mark-vincent-gallemit {
+  top: 585px;
+  left: 502px;
+  color: var(--color-gray-1000);
+  width: 251px;
+  height: 39px;
+}
+.batangas {
+  top: 672px;
+}
+.batangas,
+.batangas1,
+.philippines {
+  left: 502px;
+  color: var(--color-gray-1000);
+  width: 167px;
+  height: 39px;
+}
+.batangas1 {
+  position: absolute;
+  top: 758px;
+  display: inline-block;
+}
+.philippines {
+  top: 845px;
+}
+.billing,
+.div,
+.philippines,
+.user-settings {
+  position: absolute;
+  display: inline-block;
+}
+.div {
+  top: 758px;
+  left: 682px;
+  color: var(--color-gray-1000);
+  width: 167px;
+  height: 39px;
+}
+.billing,
+.user-settings {
+  top: 234px;
+  left: 162px;
+  font-size: var(--font-size-26xl);
+  width: 158px;
+  height: 41px;
+}
+.user-settings {
+  top: 389px;
+}
+.payment-center-inner {
+  position: absolute;
+  top: 312.48px;
+  left: 162px;
+  border-right: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 1px;
+  height: 53.02px;
+}
+.line-icon {
+  position: absolute;
+  top: 505.98px;
+  left: 161px;
+  width: 1.5px;
+  height: 289.02px;
+}
+.billing-payments {
+  position: absolute;
+  top: 327px;
+  left: 178px;
+  font-size: var(--font-size-xl);
+  color: var(--color-blue-300);
+}
+.contact-info {
+  top: 516px;
+}
+.contact-info,
+.my-profile,
+.notification-settings,
+.profile-settings,
+.tax-information {
+  position: absolute;
+  left: 178px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-600);
+}
+.tax-information {
+  top: 574px;
+}
+.notification-settings {
+  top: 761px;
+}
+.my-profile {
+  top: 636px;
+  cursor: pointer;
+}
+.profile-settings {
+  cursor: pointer;
+  top: 701px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 244px;
+  left: 432px;
+  border-radius: var(--br-10xl);
+  width: 882px;
+  height: 730px;
+}
+.payment-center-child1 {
+  position: absolute;
+  top: 575px;
+  left: 490px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-800);
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 363px;
+  height: 40px;
+}
+.billing-address {
+  position: absolute;
+  top: 636px;
+  left: 490px;
+  display: inline-block;
+  width: 167px;
+}
+.payment-center-child2 {
+  position: absolute;
+  top: 662px;
+  left: 490px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-800);
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 363px;
+  height: 40px;
+}
+.phone-number {
+  position: absolute;
+  top: 549px;
+  left: 924px;
+  display: inline-block;
+  width: 167px;
+  height: 39px;
+}
+.payment-center-child3 {
+  position: absolute;
+  top: 575px;
+  left: 924px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-800);
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 363px;
+  height: 40px;
+}
+.city,
+.zip-code {
+  position: absolute;
+  top: 722px;
+  left: 490px;
+  display: inline-block;
+  width: 167px;
+  height: 39px;
+}
+.zip-code {
+  left: 670px;
+}
+.payment-center-child4,
+.payment-center-child5 {
+  position: absolute;
+  top: 748px;
+  left: 490px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-800);
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 160px;
+  height: 40px;
+}
+.payment-center-child5 {
+  top: 749px;
+  left: 670px;
+  width: 183px;
+}
+.country {
+  position: absolute;
+  top: 808px;
+  left: 490px;
+  display: inline-block;
+  width: 167px;
+  height: 39px;
+}
+.payment-center-child6 {
+  position: absolute;
+  top: 834px;
+  left: 490px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-800);
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 363px;
+  height: 40px;
+}
+.gmail,
+.samplegmailcom {
+  position: absolute;
+  display: inline-block;
+  width: 167px;
+  height: 39px;
+}
+.samplegmailcom {
+  top: 672px;
+  left: 937px;
+  color: var(--color-gray-1000);
+}
+.gmail {
+  top: 635px;
+  left: 925px;
+}
+.payment-center-child7 {
+  position: absolute;
+  top: 661px;
+  left: 925px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-800);
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 363px;
+  height: 40px;
+}
+.marked-icon {
+  left: 1090px;
+}
+.marked-icon,
+.payment-center-child10,
+.payment-center-child8,
+.payment-center-child9 {
+  position: absolute;
+  top: 348px;
+  border-radius: var(--br-5xs);
+  width: 188px;
+  height: 110px;
+}
+.payment-center-child10 {
+  cursor: pointer;
+}
+.payment-center-child8 {
+  left: 459px;
+  cursor: pointer;
+}
+.payment-center-child9 {
+  cursor: pointer;
+  left: 669px;
+}
+.payment-center-child10 {
+  left: 882px;
+}
+.choose-payment-below {
+  position: absolute;
+  top: 304px;
+  left: 467px;
+  font-size: var(--font-size-lgi);
+  color: var(--color-gray-900);
+  display: inline-block;
+  width: 196px;
+  height: 24px;
+}
+.gcash,
+.paypal {
+  font-size: var(--font-size-lgi);
+  width: 68px;
+}
+.paypal {
+  position: absolute;
+  top: 417px;
+  left: 733px;
+  display: inline-block;
+  height: 24px;
+}
+.gcash {
+  top: 416px;
+  left: 948px;
+}
+.creditdebit-card,
+.gcash,
+.money-remittance-center {
+  position: absolute;
+  color: var(--color-gray-900);
+  display: inline-block;
+  height: 24px;
+}
+.creditdebit-card {
+  top: 420px;
+  left: 481px;
+  font-size: var(--font-size-lgi);
+  width: 142px;
+}
+.money-remittance-center {
+  top: 422px;
+  left: 1102px;
+  width: 185px;
+}
+.gcashlogo1-vector-gcash-logo-h-icon {
+  position: absolute;
+  top: 356px;
+  left: 901px;
+  width: 144.15px;
+  height: 70px;
+  object-fit: cover;
+}
+.download-removebg-preview-remo-icon {
+  position: absolute;
+  top: 340px;
+  left: 1133px;
+  width: 102.94px;
+  height: 84px;
+  object-fit: cover;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 503px;
+  left: 478px;
+  width: 33px;
+  height: 33px;
+}
+.div1 {
+  position: absolute;
+  top: 504px;
+  left: 490px;
+  font-size: var(--font-size-6xl);
+}
+.payment-center-child11 {
+  position: absolute;
+  top: 898.5px;
+  left: 789.5px;
+  border-radius: var(--br-31xl);
+  width: 210px;
+  height: 60px;
+  cursor: pointer;
+}
+.proceed {
+  position: absolute;
+  top: 913px;
+  left: 849px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  color: var(--color-white);
+  width: 136px;
+  height: 10px;
+}
+.image-6-icon,
+.western-union-logo-1-icon {
+  position: absolute;
+  top: 668px;
+  left: 822px;
+  width: 26px;
+  height: 28px;
+  object-fit: cover;
+}
+.western-union-logo-1-icon {
+  top: 770px;
+  left: 929px;
+  width: 62px;
+  height: 18.07px;
+}
+.ml-logo-1-icon,
+.moneygram-logo-1-icon {
+  position: absolute;
+  top: 773px;
+  left: 1194px;
+  width: 80px;
+  height: 13.42px;
+  object-fit: cover;
+}
+.moneygram-logo-1-icon {
+  top: 771px;
+  left: 1052px;
+  height: 16.91px;
+}
+.cl-logo-1-icon,
+.palawan-express-removebg-previ-icon {
+  position: absolute;
+  top: 770px;
+  left: 1138px;
+  width: 50px;
+  height: 21px;
+  object-fit: cover;
+}
+.palawan-express-removebg-previ-icon {
+  top: 754px;
+  left: 994px;
+  height: 50px;
+}
+.we-support-the {
+  position: absolute;
+  top: 740px;
+  left: 930px;
+  font-size: var(--font-size-3xs);
+  line-height: 140%;
+  color: rgba(0, 0, 0, 0.66);
+  text-align: center;
+}
+.icon,
+.screenshot-2023-03-21-090634-r-icon {
+  position: absolute;
+  top: 361px;
+  left: 694px;
+  width: 141.61px;
+  height: 70px;
+  object-fit: cover;
+}
+.screenshot-2023-03-21-090634-r-icon {
+  top: 348px;
+  left: 503px;
+  width: 99.66px;
+}
+.div2,
+.div3 {
+  position: absolute;
+  top: 585px;
+  left: 945px;
+  display: inline-block;
+  width: 167px;
+  height: 39px;
+}
+.div3 {
+  left: 981px;
+  color: var(--color-gray-1000);
+  width: 216px;
+}
+.payment-center {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-cabin);
+}

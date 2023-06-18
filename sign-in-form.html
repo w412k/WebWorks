@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./sign-in-form.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,700;1,400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Cantarell:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="sign-in-form">
+      <div class="sign-in-form-child"></div>
+      <div class="forgot-password">Forgot Password</div>
+      <div class="sign-up" id="signUpText">Sign up</div>
+      <div class="sign-in-to">Sign in to your account</div>
+      <div class="or-sign-in">or sign in with</div>
+      <input
+        class="sign-in-form-item"
+        type="email"
+        placeholder="  Email"
+        required
+      /><input
+        class="sign-in-form-inner"
+        type="password"
+        placeholder="  Password"
+        required
+      /><button class="rectangle-button" id="rectangleButton"></button>
+      <div class="sign-in">Sign in</div>
+      <div class="dont-have-an">Don't have an account?</div>
+      <img
+        class="stud-2-removebg-preview-2-icon4"
+        alt=""
+        src="./public/stud-2removebgpreview-21@2x.png"
+        id="stud2RemovebgPreview2Image"
+      /><img class="group-icon" alt="" src="./public/group-1.svg" />
+      <div class="line-div"></div>
+    </div>
+
+    <script>
+      var signUpText = document.getElementById("signUpText");
+      if (signUpText) {
+        signUpText.addEventListener("click", function (e) {
+          window.location.href = "./s-i-g-n-u-p-f-o-r-m-b-a-b-a-g-u-h-i-n-n.html";
+        });
+      }
+      
+      var rectangleButton = document.getElementById("rectangleButton");
+      if (rectangleButton) {
+        rectangleButton.addEventListener("click", function (e) {
+          window.location.href = "./w-o-r-k-e-r-d-a-s-h-b-o-a-r-d.html";
+        });
+      }
+      
+      var stud2RemovebgPreview2Image = document.getElementById(
+        "stud2RemovebgPreview2Image"
+      );
+      if (stud2RemovebgPreview2Image) {
+        stud2RemovebgPreview2Image.addEventListener("click", function (e) {
+          window.location.href = "/";
+        });
+      }
+      </script>
+  </body>
+</html>

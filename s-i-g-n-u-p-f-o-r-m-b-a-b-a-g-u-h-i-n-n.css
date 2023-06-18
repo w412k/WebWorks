@@ -1,0 +1,147 @@
+.sign-up-form-babaguhinn-child {
+  position: absolute;
+  width: 100%;
+  top: 793px;
+  right: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  height: 80px;
+}
+.facebook-logo-removebg-preview-icon4,
+.twitter-logo-13 {
+  position: absolute;
+  top: 809px;
+  left: 237px;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+}
+.twitter-logo-13 {
+  top: 815px;
+  left: 285px;
+  width: 39px;
+  height: 39px;
+}
+.copyright-20234 {
+  position: absolute;
+  top: 821px;
+  right: 55px;
+  font-family: var(--font-inter);
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 308px;
+  height: 41px;
+}
+.terms-conditions4 {
+  right: 253px;
+  color: var(--color-gray-200);
+}
+.follow-us4,
+.privacy-statement4,
+.terms-conditions4 {
+  position: absolute;
+  top: 821px;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 308px;
+  height: 41px;
+}
+.privacy-statement4 {
+  right: 444px;
+  color: var(--color-gray-200);
+}
+.follow-us4 {
+  left: 119px;
+  color: var(--color-gray-1100);
+}
+.instagram-logo-removebg-previe-icon4 {
+  position: absolute;
+  top: 804px;
+  left: 313px;
+  width: 67px;
+  height: 58px;
+  object-fit: cover;
+}
+.sign-up-form-babaguhinn-item {
+  position: absolute;
+  top: 167px;
+  left: 435px;
+  border-radius: var(--br-22xl);
+  background-color: rgba(20, 12, 12, 0.36);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 570px;
+  height: 579px;
+}
+.rectangle-a,
+.sign-up-form-babaguhinn-inner {
+  text-decoration: none;
+  position: absolute;
+  left: 510px;
+  border-radius: var(--br-12xl);
+  background: linear-gradient(135deg, #52e5e7, #130cb7);
+  width: 420px;
+  height: 86px;
+}
+.sign-up-form-babaguhinn-inner {
+  top: 254px;
+  cursor: pointer;
+}
+.rectangle-a {
+  top: 454px;
+}
+.im-a-worker1,
+.im-an-employer {
+  position: absolute;
+  font-size: var(--font-size-17xl);
+}
+.im-an-employer {
+  top: 275px;
+  left: 594px;
+}
+.im-a-worker1 {
+  top: 475px;
+  left: 622px;
+  cursor: pointer;
+}
+.sign-up-now1 {
+  position: absolute;
+  top: 603px;
+  left: 609px;
+  font-size: var(--font-size-21xl);
+}
+.apply-for-part1,
+.hire-part-time {
+  position: absolute;
+  font-size: var(--font-size-base);
+}
+.hire-part-time {
+  top: 555px;
+  left: 578px;
+}
+.apply-for-part1 {
+  top: 348px;
+  left: 588px;
+}
+.stud-2-removebg-preview-2-icon14 {
+  position: absolute;
+  top: 32px;
+  left: 136px;
+  width: 176px;
+  height: 88px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.sign-up-form-babaguhinn {
+  position: relative;
+  width: 100%;
+  height: 873px;
+  overflow: hidden;
+  background-image: url(./public/sign-up-form-babaguhinn@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-cabin);
+}
