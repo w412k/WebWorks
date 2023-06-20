@@ -30,8 +30,5 @@ We welcome contributions to enhance the functionality and usability of WebWorks.
 
 We appreciate your contributions and value the open-source community!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for personal or commercial purposes.
 
 
